@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../TP BOOT GOUMIH/TP_2/pulls"
+		},
+		{
+			"path": "../TP BOOT GOUMIH/TP_2/shirts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "tp2 CORRECT"
+	}
+}
